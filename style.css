@@ -1,0 +1,89 @@
+.Menu{
+    padding: 2px;
+    text-align: center;
+    background: #ffc880;
+    box-shadow: 5px 5px 5px #b09f0f;
+}
+.Menu li {
+    text-decoration: none;
+    display: inline;
+    margin: 2px;
+}
+.Menu a{
+    text-decoration: none;
+    color: black;
+}
+.Menu_div a:hover{
+    color: #ce454d;
+}
+/* Estilização */
+.Logo{
+    background: #40b6ff;
+    color: #ffc880;
+}
+.Rr{
+    padding: 0px;
+    display: inline;
+    text-align: center;
+}
+.Rr li {
+    
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+    text-decoration: none;    
+    
+}
+.Rr a{
+    
+    color: black;
+    text-decoration: none;
+    
+}
+/* Imagem */
+.Imagens{
+    border: 5px solid #40b6ff;
+    height: 140px;
+    width: 90px;
+}
+.logo_img{
+    width: 375px;
+    height:120px ;
+}
+
+.livro{
+    text-align: center;
+    background: #ffc880;
+    box-shadow: 5px 5px 5px #b09f0f;
+}
+.bau{
+    display: flex;
+}
+.bau ul{       
+    margin: 5px;    
+}
+.bau li{
+  list-style: none;  
+  background: #ffc880;
+  box-shadow: 5px 5px 5px #b09f0f;
+}
+. sumário {
+background-image:url (https://images.app.goo.gl/fz5PtaK42TUgfEK69);
+}
+    
+.sumario li{
+    margin:3px;
+}
+/* botão*/
+.Compra {    
+    text-align: center;    
+    border-radius: 10%;
+    background: #7dee63;
+    box-shadow: 5px 5px 5px #66c251;    
+    font-size: 30px;
+}
+.Compra a{
+    text-decoration: none;
+    color: black;
+}
+
